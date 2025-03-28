@@ -1,0 +1,5 @@
+.hugo_build.lock
+build/*
+!build/.gitkeep
+resources/
+public/
