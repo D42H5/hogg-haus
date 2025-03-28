@@ -1,0 +1,3 @@
+[submodule "themes/hugo-bearprint"]
+	path = themes/hugo-bearprint
+	url = https://github.com/D42H5/hugo-bearprint
