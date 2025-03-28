@@ -28,7 +28,7 @@ enableRobotsTXT = true
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
-      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+      madeWith = "Made with [Bear Print](https://github.com/D42H5/hugo-bearprint)"
       poweredBy = "Powered by [Hugo](https://gohugo.io)"
 
 [params]
